@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Ao Sun's homepage
 
-You can use the [editor on GitHub](https://github.com/ao-sun/ao-sun.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student at [the School of Economics, Xiamen University](http://www.soe.xmu.edu.cn/english/) supervised by [Prof.Jingyuan Liu](https://wise.xmu.edu.cn/english/info/1062/1339.htm). My research lies in high-dimensional inference.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ao-sun/ao-sun.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p><ins>A Generalized Knockoff Procedure for FDR Control in Structural Change Detection</ins>, <em>Accepted by Journal of Econometrics</em>. The whole source code is <strong><a href = "https://github.com/suntiansheng/Gknockoff">here</a></strong></p>
+ <p><ins>Resource abundance, industrial structure, and regional carbon emissions efficiency in China</ins>, <em>Resources Policy</em>. You can see the result of this project <strong><a href = "https://da-sunao.shinyapps.io/engel_curve/">here</a></strong></p>
+ 
+### Contact
+Email: aosun.xmu@gmail.com
